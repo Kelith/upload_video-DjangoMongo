@@ -1,0 +1,7 @@
+django>=2.1.2
+djongo>=1.2.30
+werkzeug
+djangorestframework
+djangorestframework_simplejwt
+django-filter
+markdown
