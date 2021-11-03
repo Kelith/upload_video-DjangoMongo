@@ -48,11 +48,7 @@ Known Issues:
 
 This example uses a popular open source project called [Djongo - A Django and MongoDB database connector](https://github.com/nesdis/djongo). Thanks to the creator for this wonderful contribution.
 
-
-## Support
-
-Reach out to me at one of the following places!
-
+The boilerplate for this mini-project has been cloned from that awesome guy!
 - Twitter at <a href="https://twitter.com/writetopradeep" target="_blank">`@writetopradeep`</a>
 - LinkedIn at <a href="https://www.linkedin.com/in/balanpradeepkumar/" target="_blank">`balanpradeepkumar`</a>
 
